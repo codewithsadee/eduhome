@@ -9,9 +9,9 @@
   <br />
   <br />
 
-  <h2 align="center">EduHome - Landing page website</h2>
+  <h2 align="center">EduHome - Education website</h2>
 
-  EduHome is a fully responsive landing page website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  EduHome is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/eduhome/"><strong>➥ Live Demo</strong></a>
 
