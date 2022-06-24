@@ -1,0 +1,327 @@
+EduHome - Education Is About Academic Excellence
+
+
+
+#---------- HEADER ----------#
+
+EduHome
+
+aria-label = Close menu
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Courses
+Event
+Blog
+Contact
+
+aria-label = Open search
+<ion-icon name="search-outline"></ion-icon>
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+Login / Register
+
+aria-label = Open menu
+<ion-icon name="menu-outline"></ion-icon>
+
+
+
+#---------- SEARCH BOX ----------#
+
+aria-label = Close search
+<ion-icon name="close-outline"></ion-icon>
+
+placeholder = Search Here...
+aria-label = Search
+
+aria-label = Submit
+<ion-icon name="search-outline"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+Better Learning Future With Us
+
+Education Is About Academic Excellence
+
+Sed eu volutpat arcu, a tincidunt nulla quam, feugiat sit amet ipsum a, dapibus porta velit.
+
+Get Started Today 
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+alt = hero image
+
+
+
+#---------- CATEGORY ----------#
+
+Course Categories
+Popular Topics To Learn
+
+<ion-icon name="briefcase-outline"></ion-icon>
+Personal Development
+39 Course
+
+<ion-icon name="file-tray-full-outline"></ion-icon>
+Human Research
+24 Course
+
+<ion-icon name="color-palette-outline"></ion-icon>
+Art & Design
+
+<ion-icon name="layers-outline"></ion-icon>
+Business Management
+
+<ion-icon name="laptop-outline"></ion-icon>
+Web Development
+
+<ion-icon name="thumbs-up-outline"></ion-icon>
+Lifestyle
+
+<ion-icon name="headset-outline"></ion-icon>
+Digital Marketing
+
+<ion-icon name="server-outline"></ion-icon>
+Data Sciences
+
+<ion-icon name="medkit-outline"></ion-icon>
+Health & Fitness
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+Who We Are
+
+We Offer The Best Carrier
+
+Industry Expert Instructor
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, eiusmoded tempor incididunt dolore magna aliqua.
+
+Up-to-Date Course Content
+
+Biggest Student Community
+
+Know About Us
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- COURSE ----------#
+
+Popular Courses
+
+Our Popular Courses
+
+alt = Competitive Strategy law for all students
+
+Intermediate
+
+aria-label = Add to whishlist
+<ion-icon name="heart"></ion-icon>
+
+<ion-icon name="reader-outline" aria-hidden="true"></ion-icon>
+35 Lessons
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+18h 15m 44s
+
+Competitive Strategy law for all students
+
+<ion-icon name="star"></ion-icon>
+(18 Review)
+
+$29.00
+$39.00
+
+<ion-icon name="people-outline" aria-hidden="true"></ion-icon>
+47 Students
+
+
+alt = Machine Learning A-Z: Hands-On Python and java
+
+Advanced
+
+48 Lessons
+
+Machine Learning A-Z: Hands-On Python and java
+
+Free
+65 Students
+
+
+alt = Achieving Advanced in Insights with Big
+
+Basic
+80 Lessons
+
+Achieving Advanced in Insights with Big
+
+$59.00
+$69.00
+42 Students
+
+
+alt = Education Makes A Person A Responsible Citizen
+
+Intermediate
+31 Lessons
+
+Education Makes A Person A Responsible Citizen
+
+$49.00
+$59.00
+46 Students
+
+
+alt = Building A Better World One Student At A Time
+
+Advanced
+36 Lessons
+
+Building A Better World One Student At A Time
+
+$29.00
+$39.00
+91 Students
+
+
+alt = Education is About Forming Faithful Disciples
+
+Basic
+21 Lessons
+
+Education is About Forming Faithful Disciples
+
+$79.00
+$89.00
+22 Students
+
+View All Courses
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- CTA ----------#
+
+alt = cta banner
+
+Free Workshop
+
+Join Our Free Workshops
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit amet, consect adipi scing elit, sed do eiusmod tempor incididunt ut sed do eiusmod tempor incididunt ut labore et dolore aliqua.
+
+Upcomming Workshop
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- EVENT ----------#
+
+Upcomming Event
+
+Let’s Join Our Community
+
+alt = Innovation & Technological Entrepreneurship Team
+
+04 Dec 2022
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+Alpaca Way Anaheim, CA 92805
+
+Innovation & Technological Entrepreneurship Team
+
+Get Ticket
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+alt = Virtual Spring Part-time Jobs Fair for Student
+
+30th Oct 2022
+
+Ritter Avenue Detroit, MI 48226
+
+
+alt = Explorations of Regional Chief Executive Network
+
+18th Sep 2022
+
+Stout Street York, PA 17401
+
+
+
+#---------- NEWSLETTER ----------#
+
+Subscribe Newsletter
+
+Get Every Latest News
+
+aria-label = email
+
+placeholder = Enter your mail address
+
+<ion-icon name="mail-open-outline" aria-hidden="true"></ion-icon>
+
+Subscribe
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FOOTER ----------#
+
+EduHome
+
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+
+Explore
+
+<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
+
+About Us
+Upcoming Events
+Blog & News
+FAQ Question
+Testimonial
+Privacy Policy
+
+Useful Links
+
+Contact Us
+Pricing Plan
+Instructor Profile
+FAQ
+Popular Courses
+Terms & Conditions
+
+Contact Info
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+275 Quadra Street Victoria Road, New York
+
+<ion-icon name="call" aria-hidden="true"></ion-icon>
++ 1 (364) 765-7839
++ 1 (364) 765-7840
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+contact@eduhome.com
+
+Copyright 2022 EduHome. All Rights Reserved by codewithsadee
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = Back to top
+
+<ion-icon name="arrow-up"></ion-icon>
