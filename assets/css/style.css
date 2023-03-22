@@ -1409,9 +1409,14 @@ margin-top:0;
 {
 border: 1px solid black;
 width: 100px;
+height:100px;
 }
 .jsgrid-cell
 {
-background-color:gray;
+background-color:wheat;
 width:100px;
+}
+.jsgrid-table
+{
+  width: 80%;
 }
