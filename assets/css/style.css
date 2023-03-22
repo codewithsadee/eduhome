@@ -1386,3 +1386,32 @@ body {
   .footer-top { padding-block: 120px 80px; }
 
 }
+
+
+/* admision */
+.container-admission
+{
+  margin: 10%;
+  
+}
+.discipline
+{
+position: relative;
+margin-top:0;
+
+}
+/*tables in the referece books*/
+.jsgrid-row
+{
+  border: 1px solid black;
+}
+.jsgrid-col
+{
+border: 1px solid black;
+width: 100px;
+}
+.jsgrid-cell
+{
+background-color:gray;
+width:100px;
+}
