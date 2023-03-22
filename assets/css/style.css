@@ -1415,8 +1415,35 @@ height:100px;
 {
 background-color:wheat;
 width:100px;
+height: 100px;
+text-align: center;
 }
 .jsgrid-table
 {
-  width: 80%;
+  width:100%;
+}
+.jsgrid-header-row
+{
+background-color: aliceblue;
+height: 50px;
+}
+.jsgrid
+{
+  margin-top:50px;
+}
+table{
+  width: 100%;
+}
+tr
+{
+background-color: aliceblue;;
+}
+.fee-heading
+{
+  font-size: larger;
+  font-weight: bolder;
+}
+td
+{
+  height: 50px;
 }
