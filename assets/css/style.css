@@ -1447,3 +1447,48 @@ td
 {
   height: 50px;
 }
+
+
+/* styele for facility page*/
+.grid-list
+{
+
+  margin: 10%;
+  margin-top: 100px;
+  
+}
+.contact-container
+{
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+
+}
+.contact-box
+{
+width:300px;
+height: 400px;
+background-color: #ffe9ec;
+margin: 5%;
+text-align: center;
+border-radius: 2rem;
+}
+.contact-icon
+{
+height: 250px;
+width:150px;
+justify-self:center;
+margin-left: 28%;
+}
+.contact-headding
+{
+margin-top: 100px;
+text-align: center;
+}
+.loc-frame
+{
+margin-left: 10%;
+min-height: 300px;
+margin-bottom: 5%;
+border-radius: .7rem;
+}
