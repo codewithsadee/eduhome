@@ -1,0 +1,28 @@
+.carousel {
+    margin: 10%;
+    margin-top: 5%;
+}
+
+img {
+    border-radius: 1rem;
+}
+.sprorts-corner-page
+{
+background-color: bisque;
+}
+.carousel-title
+{
+
+display: flex;
+justify-content: center;
+
+}
+.header
+{
+    background-color:#FFD580;
+}
+.navbar
+{
+    backdground-color:#FFD580;
+    color: #FFD580;
+}
