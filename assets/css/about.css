@@ -45,7 +45,7 @@ section {
 
 .sec-title{
 position:relative;
-z-index: 1;
+z-index: 999;
 margin-bottom:60px;
 }
 
