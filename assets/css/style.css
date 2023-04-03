@@ -1509,18 +1509,17 @@ border-radius: .7rem;
 {
  max-width:600px;
  max-height:600px;
-
-border-radius:0;
 padding:5px;
 justify-self: center;
 margin: 0;
 transition: all .2s ;
-border-radius: .9rem;
+border-radius:50%;
+margin-right: 0;
 }
 
 .intro:hover
 {
-transform: translateY(-50px);
+transform: translate(30px,-50px) scale(110%);
 box-shadow: 1px 3px 10px rgba(0,0,0,30%);
 outline: #99edc3 solid 4px;
 
