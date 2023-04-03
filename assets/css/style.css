@@ -2,12 +2,6 @@
   #style.css
 \*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
 
 
 /*-----------------------------------*\
@@ -271,7 +265,7 @@ body {
 
 .logo {
   color: var(--ultramarine-blue);
-  font-size: 2.4rem;
+  font-size: 3rem;
   font-weight: var(--fw-800);
 }
 
