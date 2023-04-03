@@ -168,7 +168,6 @@ body {
 
 .container { padding-inline: 15px; }
 
-.abs-img { display: none; }
 
 .section-subtitle {
   color: var(--ultramarine-blue);
@@ -1080,7 +1079,7 @@ body {
     top: 15%;
     left: -120px;
     border-radius: var(--radius-4);
-    z-index: -1;
+    
   }
 
   .about .abs-img-1 { right: -130px; }
@@ -1201,6 +1200,7 @@ body {
     position: relative;
     padding-inline-end: 50px;
     margin-block-start: 180px;
+    
   }
 
   .hero .abs-img-1 {
@@ -1350,11 +1350,21 @@ body {
   /**
    * HERO
    */
+   .hero
+   {
 
-  .hero .abs-img-1 { width: max-content; }
+    margin-top: 0;;
+   }
 
-  .hero .abs-img-2 { right: 120px; }
+  .hero .abs-img-1 { width: max-content;
 
+  z-index:4; }
+
+  .hero .abs-img-2 { right: 120px;
+ 
+  }
+
+ 
 
 
   /**
@@ -1491,4 +1501,32 @@ margin-left: 10%;
 min-height: 300px;
 margin-bottom: 5%;
 border-radius: .7rem;
+}
+
+
+/* hero section */
+.abs-img-main
+{
+ max-width:600px;
+ max-height:600px;
+
+border-radius:0;
+padding:5px;
+justify-self: center;
+margin: 0;
+transition: all .2s ;
+border-radius: .9rem;
+}
+
+.intro:hover
+{
+transform: translateY(-50px);
+box-shadow: 1px 3px 10px rgba(0,0,0,30%);
+outline: #99edc3 solid 4px;
+
+}
+/* WELOCME SECTION*/
+.course{
+
+  margin-bottom: 30px;
 }
