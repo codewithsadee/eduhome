@@ -1,10 +1,3 @@
-/* .history-title{
-margin-top: 10%;
-} */
-
-/* .mydiv{
-    margin-top: 10%;
-} */
 
 .header.top-fixed{
     /* position: fixed;
@@ -17,9 +10,13 @@ margin-top: 10%;
     padding: 10px 0;
     transition: all 0.3s ease; */
 }
+p {
+    font-size: 20px;
+    text-align: justify;
+  }
 
 main .history-title{
-    margin-top: 9%;
+    margin-top: 10%;
 }
 @media (max-width:767px){
    main  .history-title{
