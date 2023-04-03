@@ -1,6 +1,28 @@
-.history-title{
+/* .history-title{
 margin-top: 10%;
-}
+} */
+
 /* .mydiv{
     margin-top: 10%;
 } */
+
+.header.top-fixed{
+    /* position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    padding: 10px 0;
+    transition: all 0.3s ease; */
+}
+
+main .history-title{
+    margin-top: 9%;
+}
+@media (max-width:767px){
+   main  .history-title{
+        margin-top: 20%;
+    }
+}
