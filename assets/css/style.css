@@ -149,7 +149,7 @@ body {
 }
 #top
 {
- background-image: url('../images/hero-bg.jpg');
+ background-image: url('../images/hero-bg.jpg') !important;
   background-attachment: fixed;
 
 }
