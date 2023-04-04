@@ -147,6 +147,12 @@ body {
   font-weight: var(--fw-500);
   line-height: 1.6;
 }
+#top
+{
+ background-image: url('../images/hero-bg.jpg');
+  background-attachment: fixed;
+
+}
 
 :focus-visible { outline-offset: 4px; }
 
@@ -1467,12 +1473,17 @@ td
   margin-top: 100px;
   
 }
+
+/* style for contact us  page  */
 .contact-container
 {
 display: flex;
 justify-content: space-evenly;
 flex-wrap: wrap;
 
+}
+.loc-frame{
+  box-shadow: 0px 1px 20px  rgba(0,0,0,20%);
 }
 .contact-box
 {
@@ -1482,7 +1493,7 @@ background-color:white;
 margin: 5%;
 text-align: center;
 border-radius: 2rem;
-box-shadow: 0px 2px 10px  black;
+box-shadow: 0px 1px 20px  rgba(0,0,0,20%)
 }
 .contact-icon
 {
@@ -1527,6 +1538,5 @@ outline: #99edc3 solid 4px;
 }
 /* WELOCME SECTION*/
 .course{
-
   margin-bottom: 30px;
 }
