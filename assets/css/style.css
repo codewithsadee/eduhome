@@ -1478,10 +1478,11 @@ flex-wrap: wrap;
 {
 width:300px;
 height: 400px;
-background-color: #ffe9ec;
+background-color:white;
 margin: 5%;
 text-align: center;
 border-radius: 2rem;
+box-shadow: 0px 2px 10px  black;
 }
 .contact-icon
 {
