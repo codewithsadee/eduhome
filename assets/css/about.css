@@ -27,7 +27,8 @@ background-color: white;
 padding: 20px;
 border-radius: 2rem;
 border:4px #ffbf00 solid;
-
+text-transform:capitalize;
+word-spacing:4px;
 }
 .headding-about
 {
