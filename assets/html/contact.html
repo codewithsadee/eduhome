@@ -29,8 +29,11 @@
     <link rel="preload" as="image" href="../images/hero-abs-1.png" media="min-width(768px)">
     <link rel="preload" as="image" href="../images/hero-abs-2.png" media="min-width(768px)">
 </head>
-<body id="top" style="background-color:#FEE68E;">
+<body id="top" style="background-image: url('../images/hero-bg.jpg');
+background-attachment: fixed;
+">
     <!-- 
+
     - #HEADER
   -->
     <header class="header" data-header>
@@ -57,11 +60,11 @@
                     </li>
 
                     <li class="navbar-item">
-                        <a href="#about" class="navbar-link" data-nav-toggler>About</a>
+                        <a href="./about.html" class="navbar-link" data-nav-toggler>About</a>
                     </li>
 
                     <li class="navbar-item">
-                        <a href="" class="navbar-link" data-nav-toggler>Admission</a>
+                        <a href="Admssion.html" class="navbar-link" data-nav-toggler>Admission</a>
                     </li>
 
                     <li class="navbar-item">
@@ -79,10 +82,10 @@
                         <a href="./Facilities.html" class="navbar-link" data-nav-toggler>Facilities</a>
                     </li>
                     <li class="navbar-item">
-                        <a href="#" class="navbar-link" data-nav-toggler>CBSE Mandatory Disclosue</a>
+                        <a href="cbse.html" class="navbar-link" data-nav-toggler>CBSE Mandatory Disclosue</a>
                     </li>
                     <li class="navbar-item">
-                        <a href="#" class="navbar-link" data-nav-toggler>Contact us </a>
+                        <a href="./contact.html" class="navbar-link" data-nav-toggler>Contact us </a>
                     </li>
 
                 </ul>
@@ -154,11 +157,18 @@
     <!-- 
     - custom js link
   -->
-    <script src="../../assets/js/script.js" defer></script>
+   
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
-
+    <a href="#top" class="back-top-btn" aria-label="Back to top" data-back-top-btn>
+        <ion-icon name="arrow-up"></ion-icon>
+      </a>
+      <!-- 
+        - custom js link
+      -->
+      <script src=".././js/script.js" defer></script>
+    
 </body>
 
 </html>

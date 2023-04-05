@@ -23,6 +23,9 @@ justify-content: center;
 }
 .navbar
 {
-    backdground-color:#FFD580;
+    background-color:#FFD580;
     color: #FFD580;
+}
+body{background-image: url('../images/hero-bg.jpg');
+background-attachment: fixed;
 }

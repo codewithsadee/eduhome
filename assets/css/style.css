@@ -141,6 +141,12 @@ body {
   font-weight: var(--fw-500);
   line-height: 1.6;
 }
+#top
+{
+ background-image: url('../images/hero-bg.jpg') !important;
+  background-attachment: fixed;
+
+}
 
 :focus-visible { outline-offset: 4px; }
 
@@ -511,7 +517,7 @@ body {
 .about { padding-block-start: 0; }
 
 .about-banner {
-  background-color: var(--light-gray);
+  background-color: transparent;
   max-width: max-content;
   aspect-ratio: 450 / 590;
   margin-block-end: 40px;
@@ -989,6 +995,7 @@ body {
     transform: translateY(-50%);
     right: 0;
     border-radius: var(--radius-4);
+    border: #99edc3 solid 5px;;
   }
 
 
@@ -1073,6 +1080,7 @@ body {
     top: 15%;
     left: -120px;
     border-radius: var(--radius-4);
+  border: #99edc3 5px solid;
     
   }
 
@@ -1316,6 +1324,7 @@ body {
   .header.active { padding-block: 15px; }
 
   .header.header-anim { animation: slide-in 1s ease forwards; }
+  
 
   @keyframes slide-in {
     0% { transform: translateY(-100%); }
@@ -1461,6 +1470,8 @@ td
   margin-top: 100px;
   
 }
+
+/* style for contact us  page  */
 .contact-container
 {
 display: flex;
@@ -1468,14 +1479,18 @@ justify-content: space-evenly;
 flex-wrap: wrap;
 
 }
+.loc-frame{
+  box-shadow: 0px 1px 20px  rgba(0,0,0,20%);
+}
 .contact-box
 {
 width:300px;
 height: 400px;
-background-color: #ffe9ec;
+background-color:white;
 margin: 5%;
 text-align: center;
 border-radius: 2rem;
+box-shadow: 0px 1px 20px  rgba(0,0,0,20%)
 }
 .contact-icon
 {
@@ -1503,24 +1518,30 @@ border-radius: .7rem;
 {
  max-width:600px;
  max-height:600px;
-
-border-radius:0;
 padding:5px;
 justify-self: center;
 margin: 0;
 transition: all .2s ;
-border-radius: .9rem;
+border-radius:50%;
+margin-right: 0;
 }
 
 .intro:hover
 {
-transform: translateY(-50px);
+transform: translate(30px,-50px) scale(110%);
 box-shadow: 1px 3px 10px rgba(0,0,0,30%);
 outline: #99edc3 solid 4px;
 
 }
 /* WELOCME SECTION*/
 .course{
-
   margin-bottom: 30px;
+}
+/* media query for about us*/
+@media screen and (max-width:770px) {
+  .abs-img-1, .abs-img-2
+ {
+display: none;
+ }
+ 
 }
